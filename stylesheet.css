@@ -1,0 +1,22 @@
+/* Style rule for the head elements */
+/* Style rule for the body elements */
+body{
+  background-color: #CCCCCC;
+}
+
+/* Style rule for the top nav bar elements */
+#topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+li {
+    display: inline;
+}
+/* Style rule for the bottom nav bar elements */
+#bottomnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    float:right;
+}
